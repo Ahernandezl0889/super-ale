@@ -1,0 +1,30 @@
+body {background-color: black;
+  
+}
+
+canvas {
+    border: 1px solid lightblue;
+    background-image: url("../images/background.png");
+    background-attachment: fixed;
+    
+}
+
+.canvas-container {
+    text-align: center;
+
+}
+
+#player {
+  font-size: 30px;
+  background-color: #870007;
+  color: #fff;
+  padding: 10px 30px;
+  border: 0;
+  box-shadow: 0;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  
+}
+#score {
+  color: #FFF;
+}
